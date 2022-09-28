@@ -5,8 +5,7 @@
 
 Currently working on:
 
-- Updating all public sites
-- Leetcode/ HackerRank
+- Updating all public sites to be more well rounded
 
 
 ![YoselineGuerrero's GitHub stats](https://github-readme-stats.vercel.app/api?username=YoselineGuerrero&count_private=true&theme=tokyonight)  ![YoselineGuerrero's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=YoselineGuerrero&theme=tokyonight)
