@@ -1,4 +1,13 @@
 ### Hi there or should I say Hello World! 🌎
+------
+
+✨ Always learning and finding new ideas/features on what to code next. Currently working as an API developer and spend free time working on frontend developement to one day becaome a full-stack developer.
+
+Currently working on:
+
+- Updating all public sites
+- Leetcode/ HackerRank
+
 
 ![YoselineGuerrero's GitHub stats](https://github-readme-stats.vercel.app/api?username=YoselineGuerrero&count_private=true&theme=tokyonight)  ![YoselineGuerrero's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=YoselineGuerrero&theme=tokyonight)
 
